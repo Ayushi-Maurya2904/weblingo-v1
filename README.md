@@ -1,7 +1,7 @@
 # Web Lingo – Personal Project
 
 ![Web Lingo Homepage] 
-<img src="screenshot.jpg">
+<img src="screenshot.jpg" height="550px">
 
 ![WIP](https://img.shields.io/badge/status-work--in--progress-orange)
 
